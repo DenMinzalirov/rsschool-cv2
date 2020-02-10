@@ -1,0 +1,11 @@
+{
+  "name": "minzakirov_cv",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "browser-sync start -s -w"
+  },
+  "author": "Denis Minzakirov",
+  "devDependencies": {
+    "browser-sync": "^2.24.4"
+  }
+}
